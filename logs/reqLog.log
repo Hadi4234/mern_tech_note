@@ -8,3 +8,15 @@
 20231008	15:56:33	af68952c-e7b3-490b-9bad-616e6a62a031	GET	/css/style.css	undefined
 20231008	15:56:41	9ea8fb50-8fa9-4d43-aa6e-caf92473ca07	GET	/hadi	undefined
 20231008	15:56:41	69956115-5f8e-458a-a049-83eec210e6d4	GET	/css/style.css	undefined
+20231009	12:24:18	c8ef9a17-b6fc-4f76-b46e-c71bd74871cb	GET	/users	undefined
+20231009	12:39:04	a7ebe28d-cebb-4b0d-ba7d-7f00f45572d6	GET	/users	undefined
+20231009	12:39:13	9da8406b-396f-4c2e-a9e0-1aa9f5e99289	GET	/notes	undefined
+20231009	12:39:33	3ed24fdd-c282-4601-9560-b809ec7cfe65	GET	/users	undefined
+20231009	12:39:37	995e1ff4-637a-40ea-b168-e08ecfd22b51	POST	/users	undefined
+20231009	12:39:42	2188ee3a-91ec-4f8f-b028-7541d9b29dbe	PUT	/users	undefined
+20231009	12:39:46	776d60c5-9b90-4d1c-8712-5fc6a73e3335	DELETE	/users	undefined
+20231009	12:39:51	0476375f-6709-4c1b-b2fe-792f633483ae	PATCH	/users	undefined
+20231009	12:40:52	f38ccf6b-ccd7-4220-8031-b7f7e1d05362	GET	/users	undefined
+20231009	12:41:32	441052ad-8013-4991-8353-f910a1c61fbe	POST	/users	undefined
+20231009	12:56:50	23fdf797-4c9f-4edc-8cdf-637b07e73b95	GET	/users	undefined
+20231009	12:56:54	cebbdbf8-6d9a-4775-84f9-9af7b26b5b2a	POST	/users	undefined
